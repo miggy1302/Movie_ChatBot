@@ -1,0 +1,57 @@
+movie description
+Can you provide a brief summary of the movie
+Give me an overview of the movie's plot
+What is the storyline of the movie
+rating
+What is the movie's content rating
+Could you provide information on the movie's classification?"
+What rating has been assigned to the movie?"
+Can you tell me about the age appropriateness of the movie?"
+I'm curious about the movie's rating. Can you provide details
+genre
+What type of movie is it
+In what category does the movie fall
+Can you tell me the genre of the movie
+original language
+In which language was the movie originally made
+What language is spoken in the movie
+Which language was used to produce the film
+director
+Can you name the people who directed the movie
+Who were the filmmakers behind the movie
+Tell me about the director(s) of the film
+who is the producer
+Tell me about the individuals responsible for producing the movie
+Who were the producers of the movie
+who is the writer(s)
+Can you provide the names of the screenwriters of the movie
+Who penned the script for the film
+who are the individuals that wrote the movie
+when was the movie released in theater?
+What is the theatrical release date of the movie
+When did the movie hit the cinemas
+When was the film first shown in theaters
+when was the movie available on streaming platforms?
+From which date did the movie become available for streaming
+When did the movie start streaming on platforms
+At what time did the movie become accessible on streaming services
+gross
+What was the total box office revenue of the movie
+Can you provide the movie's earnings or total revenue
+How much money did the movie make at the box office
+runtime
+What is the duration or length of the movie
+How long does the movie run for
+Can you tell me the running time of the film
+Who is the distributor?
+Which company or organization distributed the movie
+Can you provide information on the movie's distributor
+Who is responsible for distributing the film to theaters or platforms
+Who are the Production Co?
+Which production company or companies produced the movie
+Can you provide details about the movie's production company
+Who is responsible for the film's production
+what sound is used?
+What is the sound design or audio format used in the movie
+Can you provide information about the movie's sound or audio elements
+What type of sound technology or techniques were employed in the film
