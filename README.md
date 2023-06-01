@@ -16,8 +16,6 @@ This tutorial will guide you through the process of downloading and installing t
 - numpy as np
 - WordNetLemmatizer from nltk.stem
 
-Please follow the steps below:
-
 ### Step 1: Open a terminal or command prompt
 
 To begin, open a terminal or command prompt on your computer. This will provide you with a command-line interface to execute the necessary commands.
